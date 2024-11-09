@@ -22,7 +22,7 @@ cd quiz-application-java
 
 Build the Project: Use Maven to build the project:
 mvn clean install
-Database Setup: Set up your database by running the provided schema.sql script (if included). Update the database connection parameters in application.properties or in the Java code where the database is initialized.
+Database Setup: Update the database connection parameters in application.properties or in the Java code where the database is initialized.
 
 -------------------------------------------------------------------->>>>>Running the Project<<<<<----------------------------------------------------------------------------------------
 To start the application:
