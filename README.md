@@ -25,5 +25,5 @@ mvn clean install
 Database Setup: Set up your database by running the provided schema.sql script (if included). Update the database connection parameters in application.properties or in the Java code where the database is initialized.
 
 -------------------------------------------------------------------->>>>>Running the Project<<<<<----------------------------------------------------------------------------------------
-To start the application, use:
+To start the application:
 If you using an IDE like IntelliJ IDEA or Eclipse you can run the main method in the main class to start the application.,
